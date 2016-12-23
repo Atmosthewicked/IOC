@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<script src=js/style.js"></script>
+<script src="js/style.js"></script>
 <div class="section">
   <div class="footer">
     <div class="container white">
