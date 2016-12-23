@@ -6,9 +6,9 @@
 <meta content="Incompatible Online" name="title">
 <title> Incompatible Online  website</title>
 <link rel="stylesheet"  type="text/css" href="style.css">
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js">
 <script src="SlickNav/jquery.slicknav.js"></script>
-<script src=js/style.js"></script>
+<script src="js/style.js"></script>
 
 
 	<div class="overlay"></div>
